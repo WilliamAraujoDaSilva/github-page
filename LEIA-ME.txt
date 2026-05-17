@@ -1,5 +1,0 @@
-Coloque sua foto na pasta com o nome:
-
-perfil.jpg
-
-Depois envie tudo para o GitHub Pages.
